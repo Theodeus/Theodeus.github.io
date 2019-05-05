@@ -1,0 +1,8 @@
+{
+	"background_color": "#333",
+	"theme_color": "#ddd",
+	"name": "oskars website",
+	"short_name": "oskar",
+	"display": "minimal-ui",
+	"start_url": "/"
+}
